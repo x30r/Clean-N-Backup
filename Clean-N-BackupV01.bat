@@ -19,9 +19,10 @@ cls
                                     
 echo.
 echo This Application is pure open source. You can Find the application source via contacting the author Bhashit Pandya at
-echo bhashitpandya@yahoo.com and fb.com/bhashit.pandya
+echo bpandya97@gmail.com and fb.com/bhashit.pandya
 echo BUG:
 echo To report any kind of BUG you can contact with the above details! We appriciate your time to report us the issue in the application if any.
+echo NOTE: This utility is just for Windows 7. Windows 10 update is yet to be added.
 pause
 goto :big
 :sys
