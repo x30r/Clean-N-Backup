@@ -10,6 +10,3 @@ ________________________________________________________________________________
 To report any kind of BUG you can contact with the above details! 
 We appriciate your time to report us the issue in the 
 application if any.
-
-email:bpandya97@gmail.com 
-fb.com/bhashit.pandya
